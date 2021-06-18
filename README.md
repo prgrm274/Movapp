@@ -11,4 +11,4 @@ Aplikasi `the movie db`
 
 - Favorite list after movie bookmark/favorite
 
-![c](https://user-images.githubusercontent.com/43784511/122521573-31166380-d03f-11eb-9b90-0e479365aff7.png)
+![c](https://user-images.githubusercontent.com/43784511/122521772-6c189700-d03f-11eb-8cd7-6661e780945e.png)
